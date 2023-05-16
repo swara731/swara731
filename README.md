@@ -2,7 +2,7 @@
 I am Wardina 🌺
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swara731&count_private=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swara731&count_private=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="swara731 stats card" /></p>
 
 <!--
 **swara731/swara731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
