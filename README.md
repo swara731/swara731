@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wardina</h1>
-<h3 align="center">A  year 3 software engineering student 😃
+<h3 align="center">A  final year software engineering student 😃
 Learning to code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swara731&label=Profile%20views&color=dc8bf9&style=flat" alt="swara731" /> </p>
